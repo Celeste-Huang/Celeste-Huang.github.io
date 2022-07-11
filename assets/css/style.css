@@ -17,3 +17,10 @@
     max-width: calc(100% - 50px);
     width: 650px;
 }
+
+.container_project {
+    margin: 0 auto;
+    max-width: calc(100% - 50px);
+    width: 1200px;
+    text-align: justify
+}
